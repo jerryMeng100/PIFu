@@ -21,7 +21,7 @@
   "no_num_eval": false,
   "resume_epoch": -1,
   "continue_train": false,
-  "resolution": 256,
+  "resolution": 512,
   "test_folder_path": "./sample_images",
   "sigma": 5.0,
   "num_sample_inout": 5000,
